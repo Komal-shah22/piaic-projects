@@ -20,7 +20,7 @@ def slice_list(my_list, start_index, end_index):
 def play_game():
     """Game to practice accessing, modifying, and slicing lists."""
     my_list = ['apple', 'banana', 'orange', 'grape', 'pineapple']
-    print("Welcome to the Index Game!")
+    print("\t\t\t\t~~~~~~~~~~~Welcome to the Index Game!~~~~~~~~~~~")
     print("Your list:", my_list)
     
     while True:
